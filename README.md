@@ -1,1 +1,1 @@
-### Notetaker is a simple app made by NorteX and heavily isnpired on the web app Notion.
+### Notetaker is a simple app made by NorteX and heavily inspired on the web app Notion.
